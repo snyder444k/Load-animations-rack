@@ -137,7 +137,7 @@ html {
  .div3 .radar {
     width: 35px;
     height: 35px;
-    background-color: gold;
+    background-color: blue;
     border-radius: 50%;
     animation: glow 1.2s ease-in-out infinite;
  }
@@ -145,7 +145,7 @@ html {
  .div3 p {
     font-size: 1rem;
     font-family: "libre franklin", serif;
-    color: gold;
+    color: blue;
  }
 
 
@@ -163,6 +163,6 @@ html {
     100% {
         transform: scale(0.3);
         opacity: 0.5;
-        box-shadow: 0 0 10px 2px gold;
+        box-shadow: 0 0 10px 2px blue;
     }
  }
